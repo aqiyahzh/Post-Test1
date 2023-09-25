@@ -14,11 +14,11 @@ Ini adalah program sederhana yang mengkonversi mata uang Rupiah ke mata uang asi
 ### Output
 
 Menampilkan hasil bagi dari rupiah dengan kurs mata uang asing (seperti pada gambar SS Ringgit, Yen, USD).
-# Output Rupiah ke  Ringgit.
+### Output Rupiah ke  Ringgit.
 ![Ringgit Malaysia](Ringgit.png)
-# Output Rupiah ke  Yen
+### Output Rupiah ke  Yen
 ![Yen](Yen.png)
-# Output Rupiah ke  USD
+### Output Rupiah ke  USD
 ![USD](USD.png)
 
 Jika terjadi kesalahan dalam penginputan nomor pilihan dari angka yg disediakan. Akan menampilkan "Input salah, tolong masukkan angka yang benar"
