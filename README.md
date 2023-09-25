@@ -67,7 +67,7 @@ print("="*79)
 ### Output
 
 Menampilkan hasil bagi dari rupiah dengan kurs mata uang asing (seperti pada gambar SS Ringgit, Yen, USD).
-# Output Rupiah ke  Ringgit
+# Output Rupiah ke  Ringgit.
 ![Ringgit Malaysia](Ringgit.png)
 # Output Rupiah ke  Yen
 ![Yen](Yen.png)
