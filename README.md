@@ -8,6 +8,9 @@ Ini adalah program sederhana yang mengkonversi mata uang Rupiah ke mata uang asi
 2. Masukkan jumlah uang Rupiah anda
 2. Program akan menghitung jumlah yang setara dalam Rupiah berdasarkan nilai tukar yang ditentukan.
 
+### Flowchart/Diagram Alir
+![Flowchart](Flowchart.png)
+
 ### Output
 
 Menampilkan hasil bagi dari rupiah dengan kurs mata uang asing (seperti pada gambar SS Ringgit, Yen, USD).
