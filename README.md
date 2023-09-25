@@ -22,4 +22,4 @@ Menampilkan hasil bagi dari rupiah dengan kurs mata uang asing (seperti pada gam
 ![USD](USD.png)
 
 Jika terjadi kesalahan dalam penginputan nomor pilihan dari angka yg disediakan. Akan menampilkan "Input salah, tolong masukkan angka yang benar"
-![Input salah](Input_salah.png)
+![Input salah](Input-salah.png)
